@@ -23,7 +23,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-  margin-top:-20px;
+  /* margin-top:-20px; */
     background-color:#00bfff;/*#467599;*/
     border-bottom: 5px solid #fff;
     box-shadow: 0 0 30px -18px#800080;
